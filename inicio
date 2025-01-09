@@ -1,3 +1,4 @@
+git init
 import React, { useState } from 'react';
 import { Heart, Share2, DollarSign, Plane, Instagram, Twitter, Facebook, Youtube } from 'lucide-react';
 import { Card, CardHeader, CardTitle, CardContent } from '@/components/ui/card';
